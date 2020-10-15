@@ -21,7 +21,7 @@ Enter Phone Number (optional)
 
 <input type="number">
 
-<input type="button"><p style="text-align:center;">Register</p>>
+<input type="button"><p style="text-align:center;">Register</p>
 
 
 If you want to we can add "receive notifications here or something"
