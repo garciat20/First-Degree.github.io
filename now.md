@@ -8,10 +8,10 @@ order: 2
 ---
 
 Enter Username 
-<input type="Enter Username">Username
+<input type="button">
 
 Enter Password
-<input type="password">
+<input type="text">
 
 Enter Email
 
@@ -23,6 +23,6 @@ Enter Phone Number (optional)
 
 
 
-and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one](https://nownownow.com/about), too.
+If you want to we can add "receive notifications here or something"
 
 [Go to the Home Page]({{ '/' | absolute_url }})
