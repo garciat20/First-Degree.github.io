@@ -8,10 +8,12 @@ order: 2
 ---
 
 Enter Username 
-<input type="email">
+
+<input type="text">
 
 Enter Password
-<input type="email">
+
+<input type="password">
 
 Enter Email
 
@@ -21,7 +23,7 @@ Enter Phone Number (optional)
 
 <input type="number">
 
-<input type="button"><p style="text-align:center;">Register</p>
+<button type="submit" class="registerbtn">Register</button>
 
 
 If you want to we can add "receive notifications here or something"
