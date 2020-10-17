@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Register
 title: Register
 tagline: Sign up now!
 permalink: /Register.html

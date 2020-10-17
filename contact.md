@@ -20,6 +20,6 @@ Your message:
 
 <button>Submit</button> 
 
-<em style="float:center">We would appreciate feedback!</em>
+<em>We would appreciate feedback!</em>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
