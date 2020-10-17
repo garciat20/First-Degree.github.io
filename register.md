@@ -1,9 +1,9 @@
 ---
-layout: register
+layout: page
 title: Register
 tagline: Sign up now!
-permalink: /register.html
-ref: register
+permalink: /Register.html
+ref: Register
 order: 2
 ---
 
