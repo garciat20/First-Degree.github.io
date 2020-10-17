@@ -25,7 +25,9 @@ Enter Phone Number (optional)
 
 <button type="submit" class="registerbtn">Register</button>
 
+Receive all notifications?
 
-If you want to we can add "receive notifications here or something"
+Yes <input type="checkbox">
+No <input type="checkbox">
 
 [Go to the Home Page]({{ '/' | absolute_url }})
