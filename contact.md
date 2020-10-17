@@ -18,7 +18,7 @@ Your message:
 
 <input type="text">
 
-<button class="btn" style="float:right">Login</button> 
+<button class="btn" style="float:right">Submit</button> 
 
 Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
 
