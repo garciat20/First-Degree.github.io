@@ -20,6 +20,8 @@ Your message:
 
 <button class="btn" style="float:right">Submit</button> 
 
+<em>We would appreciate feedback!<align="center"></em>
+
 Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
