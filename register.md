@@ -23,11 +23,11 @@ Enter Phone Number (optional)
 
 <input type="text">
 
-<button type="submit" class="registerbtn">Register</button>
-
 Receive all notifications?
 
 Yes <input type="checkbox">
 No <input type="checkbox">
+
+<button type="submit" class="registerbtn">Register</button>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
