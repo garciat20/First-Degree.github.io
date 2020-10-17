@@ -18,8 +18,8 @@ Your message:
 
 <input type="text">
 
-<button class="btn" style="float:right">Submit</button> 
+<button style="float:right">Submit</button> 
 
-<em>We would appreciate feedback!</em>
+<em style="float:right">We would appreciate feedback!</em>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
