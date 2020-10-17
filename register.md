@@ -2,7 +2,7 @@
 layout: page
 title: Register
 tagline: Sign up now!
-permalink: /register.html
+permalink: /Register.html
 ref: register
 order: 2
 ---
