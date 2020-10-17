@@ -10,7 +10,7 @@ layout: home
 
 [Go to the Register Page]({{ '/' | absolute_url }})
 
-<input type="https://garciat20.github.io/First-Degree.github.io/Register.html">
+<input type="url">
 
 <em>Website currently under development</em>
 
