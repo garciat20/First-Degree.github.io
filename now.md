@@ -21,7 +21,7 @@ Enter Email
 
 Enter Phone Number (optional)
 
-<input type="number">
+<input type="text">
 
 <button type="submit" class="registerbtn">Register</button>
 
