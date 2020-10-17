@@ -8,9 +8,5 @@
 layout: home
 ---
 
-[Go to the Register Page]({{ '/' | absolute_url }})
-
-<input type="url">
-
 <em>Website currently under development</em>
 
