@@ -8,7 +8,9 @@
 layout: home
 ---
 
-<h1 style="text-align:center;">[Go to the Register Page]({{ '/' | absolute_url }})</h1>
+[Go to the Register Page]({{ '/' | absolute_url }})
 
-<em style="text-align:center;">Website currently under development</em>
+<input type="https://garciat20.github.io/First-Degree.github.io/Register.html">
+
+<em>Website currently under development</em>
 
